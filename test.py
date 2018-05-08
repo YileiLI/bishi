@@ -275,24 +275,24 @@ parameters = model(train, test, learning_rate=0.0005)
 
 '''
 Output:
-Cost after epoch 0: 0.5172062167882646
-Cost after epoch 1: 0.37512158064716017
-Cost after epoch 2: 0.33500228416309197
-Cost after epoch 3: 0.31226355955004675
-Cost after epoch 4: 0.2937799974304554
-Cost after epoch 5: 0.2803866301031138
-Cost after epoch 6: 0.26885270151039653
-Cost after epoch 7: 0.25398252196219695
-Cost after epoch 8: 0.24336928878048847
-Cost after epoch 9: 0.2335114361950311
-Cost after epoch 10: 0.22422048388476182
-Cost after epoch 11: 0.21713858323087204
-Cost after epoch 12: 0.20728909788540512
-Cost after epoch 13: 0.19928897240679458
-Cost after epoch 14: 0.19328004016613562
-Cost after epoch 15: 0.18580284296416807
+Cost after epoch 0: 0.5274915088258663
+Cost after epoch 1: 0.37871477297128914
+Cost after epoch 2: 0.34294193676034257
+Cost after epoch 3: 0.3157422538625556
+Cost after epoch 4: 0.2972113268473751
+Cost after epoch 5: 0.28209723144058396
+Cost after epoch 6: 0.27076038404999947
+Cost after epoch 7: 0.2562041242516953
+Cost after epoch 8: 0.24666184695856025
+Cost after epoch 9: 0.23950218666253836
+Cost after epoch 10: 0.229596161413656
+Cost after epoch 11: 0.21981574602455448
+Cost after epoch 12: 0.21353272956116187
+Cost after epoch 13: 0.20669270820625124
+Cost after epoch 14: 0.19918674002461187
+Cost after epoch 15: 0.19351588773223533
 Parameters have been trained!
-Train Accuracy: 0.9351636
-Test Accuracy: 0.8853
+Train Accuracy: 0.9355818
+Test Accuracy: 0.8897
 
 '''
