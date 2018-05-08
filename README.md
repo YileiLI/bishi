@@ -1,8 +1,4 @@
-Title         : README
-Author        : LI Yilei
-Logo          : False
-
-[TITLE]
+#README
 
 # 基于 Tensorflow 实现图像的分类模型，尝试在 fashion-mnist 数据集
 由于我没有学过Tensorflow的使用，所以这题的回答我参考的这篇 [blog]。 在此基础上调整了网络参数。
